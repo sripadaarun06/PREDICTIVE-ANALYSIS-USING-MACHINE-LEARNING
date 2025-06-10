@@ -17,7 +17,7 @@ This project uses historical Netflix streaming data to **predict global revenue*
 
 ## Files Included
 
-- `Netflix_Revenue_Regression.ipynb` — Main notebook with all code and explanation
+- `Netflix_Revenue.ipynb` — Main notebook with all code
 - `netflix_revenue_updated.csv` — Dataset used for training and evaluation
 
 
