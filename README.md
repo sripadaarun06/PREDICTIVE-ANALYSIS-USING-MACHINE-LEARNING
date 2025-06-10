@@ -71,6 +71,13 @@ The goal is to predict **Global Revenue** based on regional revenues, member cou
 
 Make sure your dataset (`netflix_revenue_updated.csv`) is in the same folder.
 
+## Output
+
+
+![Image](https://github.com/user-attachments/assets/0dc05713-6ba8-42e5-9a19-43f67cef2721)
+![Image](https://github.com/user-attachments/assets/febf21f3-047c-476e-9ecd-9910915b404c)
+
+
 ## Author
 
 -  **[Sripada.Arun]**
